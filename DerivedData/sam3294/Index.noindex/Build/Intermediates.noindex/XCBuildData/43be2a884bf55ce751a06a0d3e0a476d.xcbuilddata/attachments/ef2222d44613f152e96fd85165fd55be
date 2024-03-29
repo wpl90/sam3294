@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex/sam3294.build/Debug/sam3294Tests.build/Objects-normal/x86_64/sam3294Tests-master.d",
+    "diagnostics" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex/sam3294.build/Debug/sam3294Tests.build/Objects-normal/x86_64/sam3294Tests-master.dia",
+    "emit-module-dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex/sam3294.build/Debug/sam3294Tests.build/Objects-normal/x86_64/sam3294Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex/sam3294.build/Debug/sam3294Tests.build/Objects-normal/x86_64/sam3294Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex/sam3294.build/Debug/sam3294Tests.build/Objects-normal/x86_64/sam3294Tests-master.swiftdeps"
+  },
+  "/Users/userno1/dev2/swift/sam3294/sam3294Tests/sam3294Tests.swift" : {
+
+  }
+}

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'sam3294Tests' in project 'sam3294'
+➜ Explicit dependency on target 'sam3294' in project 'sam3294'
+Target 'sam3294UITests' in project 'sam3294'
+➜ Explicit dependency on target 'sam3294' in project 'sam3294'
+Target 'sam3294' in project 'sam3294' (no dependencies)

@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests-master.dia",
+    "emit-module-dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests-master.swiftdeps"
+  },
+  "/Users/userno1/dev2/swift/sam3294/sam3294UITests/sam3294UITests.swift" : {
+    "const-values" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.swiftconstvalues",
+    "dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.d",
+    "diagnostics" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.dia",
+    "index-unit-output-path" : "/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.o",
+    "llvm-bc" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.bc",
+    "object" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.o",
+    "swift-dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests.swiftdeps",
+    "swiftmodule" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITests~partial.swiftmodule"
+  },
+  "/Users/userno1/dev2/swift/sam3294/sam3294UITests/sam3294UITestsLaunchTests.swift" : {
+    "const-values" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.d",
+    "diagnostics" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.dia",
+    "index-unit-output-path" : "/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.o",
+    "llvm-bc" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.bc",
+    "object" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294UITests.build/Objects-normal/x86_64/sam3294UITestsLaunchTests~partial.swiftmodule"
+  }
+}

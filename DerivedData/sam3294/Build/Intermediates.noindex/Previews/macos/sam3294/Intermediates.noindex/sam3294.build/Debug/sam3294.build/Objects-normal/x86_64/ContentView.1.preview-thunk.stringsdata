@@ -1,0 +1,20 @@
+{
+  "source": "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex/sam3294.build/Debug/sam3294.build/Objects-normal/x86_64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Item at %@"
+      },
+      {
+        "comment": "",
+        "key": "Add Item"
+      },
+      {
+        "comment": "",
+        "key": "Select an item"
+      }
+    ]
+  },
+  "version": 1
+}

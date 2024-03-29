@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>D2BF6D96-B908-4813-A383-02462D18B488</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2BF6D96-B908-4813-A383-02462D18B488.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sam3294 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sam3294</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sam3294</string>
+			<key>timeStartedRecording</key>
+			<real>733374519.41657102</real>
+			<key>timeStoppedRecording</key>
+			<real>733374559.01996803</real>
+			<key>title</key>
+			<string>Build for Previews sam3294</string>
+			<key>uniqueIdentifier</key>
+			<string>D2BF6D96-B908-4813-A383-02462D18B488</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

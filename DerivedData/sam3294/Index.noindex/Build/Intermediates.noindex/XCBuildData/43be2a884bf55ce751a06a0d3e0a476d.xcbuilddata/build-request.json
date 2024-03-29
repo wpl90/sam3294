@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "e2fccebbc3945ee3b325778ca70413287fbbce7fa999bf2d633f1be907774d4b"
+    },
+    {
+      "guid" : "e2fccebbc3945ee3b325778ca7041328935b74e936804296546b1613228da71f"
+    },
+    {
+      "guid" : "e2fccebbc3945ee3b325778ca7041328690e1e81983b699b5357a58dfccdfdbf"
+    }
+  ],
+  "containerPath" : "/Users/userno1/dev2/swift/sam3294/sam3294.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Products",
+      "pchPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
