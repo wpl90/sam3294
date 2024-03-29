@@ -5,6 +5,7 @@
 //  Created by userno1 on 2024/03/29.
 //
 //ローカルのグラデーションのコミット後にリモートで修正
+//リモートからpullしたものに対してローカルにおいて修正
 
 import Foundation
 import SwiftData
