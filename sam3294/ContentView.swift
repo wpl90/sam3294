@@ -36,6 +36,7 @@ struct ContentView: View {
         } detail: {
             Text("Select an item")
         }
+        .background(LinearGradient(gradient: Gradient(colors: [.indigo, .cyan]), startPoint: .top, endPoint: .bottom))
     }
 
     private func addItem() {

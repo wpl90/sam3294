@@ -11,7 +11,7 @@ import SwiftUI
 
 extension ContentView {
     @_dynamicReplacement(for: deleteItems(offsets:)) private func __preview__deleteItems(offsets: IndexSet) {
-        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 49)
+        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 50)
         withAnimation {
             for index in offsets {
                 modelContext.delete(items[index])
@@ -24,7 +24,7 @@ extension ContentView {
 
 extension ContentView {
     @_dynamicReplacement(for: addItem()) private func __preview__addItem() {
-        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 42)
+        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 43)
         withAnimation {
             let newItem = Item(timestamp: Date())
             modelContext.insert(newItem)
@@ -60,6 +60,7 @@ extension ContentView {
         } detail: {
             Text(__designTimeString("#1492.[2].[2].property.[0].[0].arg[1].value.[0].arg[0].value", fallback: "Select an item"))
         }
+        .background(LinearGradient(gradient: Gradient(colors: [.indigo, .cyan]), startPoint: .top, endPoint: .bottom))
     
 #sourceLocation()
     }
