@@ -24,6 +24,7 @@ struct ContentView: View {
                 }
                 .onDelete(perform: deleteItems)
             }
+            .background(LinearGradient(gradient: Gradient(colors: [.red, .blue]), startPoint: .top, endPoint: .bottom)) // 背景色をグラデーションに設定
             .navigationSplitViewColumnWidth(min: 180, ideal: 200)
             .toolbar {
                 ToolbarItem {

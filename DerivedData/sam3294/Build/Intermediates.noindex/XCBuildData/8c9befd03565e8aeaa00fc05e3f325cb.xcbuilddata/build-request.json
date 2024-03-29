@@ -1,0 +1,174 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "e2fccebbc3945ee3b325778ca70413287fbbce7fa999bf2d633f1be907774d4b",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx14.4",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Products",
+          "derivedDataPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/ProfileData",
+              "DSTROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex",
+              "SYMROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Products"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "e2fccebbc3945ee3b325778ca7041328935b74e936804296546b1613228da71f",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx14.4",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Products",
+          "derivedDataPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/ProfileData",
+              "DSTROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex",
+              "SYMROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Products"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "e2fccebbc3945ee3b325778ca7041328690e1e81983b699b5357a58dfccdfdbf",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx14.4",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Products",
+          "derivedDataPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/ProfileData",
+              "DSTROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Intermediates.noindex",
+              "SYMROOT" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/Previews/macos/sam3294/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/userno1/dev2/swift/sam3294/sam3294.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Products",
+      "derivedDataPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/userno1/dev2/swift/sam3294/DerivedData/sam3294/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

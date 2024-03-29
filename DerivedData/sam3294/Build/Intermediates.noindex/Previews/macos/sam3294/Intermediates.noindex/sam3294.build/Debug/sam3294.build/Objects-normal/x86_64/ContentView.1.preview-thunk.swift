@@ -11,7 +11,7 @@ import SwiftUI
 
 extension ContentView {
     @_dynamicReplacement(for: deleteItems(offsets:)) private func __preview__deleteItems(offsets: IndexSet) {
-        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 48)
+        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 49)
         withAnimation {
             for index in offsets {
                 modelContext.delete(items[index])
@@ -24,7 +24,7 @@ extension ContentView {
 
 extension ContentView {
     @_dynamicReplacement(for: addItem()) private func __preview__addItem() {
-        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 41)
+        #sourceLocation(file: "/Users/userno1/dev2/swift/sam3294/sam3294/ContentView.swift", line: 42)
         withAnimation {
             let newItem = Item(timestamp: Date())
             modelContext.insert(newItem)
@@ -48,11 +48,12 @@ extension ContentView {
                 }
                 .onDelete(perform: deleteItems)
             }
-            .navigationSplitViewColumnWidth(min: __designTimeInteger("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[0].arg[0].value", fallback: 180), ideal: __designTimeInteger("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[0].arg[1].value", fallback: 200))
+            .background(LinearGradient(gradient: Gradient(colors: [.red, .blue]), startPoint: .top, endPoint: .bottom)) // 背景色をグラデーションに設定
+            .navigationSplitViewColumnWidth(min: __designTimeInteger("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[1].arg[0].value", fallback: 180), ideal: __designTimeInteger("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[1].arg[1].value", fallback: 200))
             .toolbar {
                 ToolbarItem {
                     Button(action: addItem) {
-                        Label(__designTimeString("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[1].arg[0].value.[0].arg[0].value.[0].arg[1].value.[0].arg[0].value", fallback: "Add Item"), systemImage: __designTimeString("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[1].arg[0].value.[0].arg[0].value.[0].arg[1].value.[0].arg[1].value", fallback: "plus"))
+                        Label(__designTimeString("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[2].arg[0].value.[0].arg[0].value.[0].arg[1].value.[0].arg[0].value", fallback: "Add Item"), systemImage: __designTimeString("#1492.[2].[2].property.[0].[0].arg[0].value.[0].modifier[2].arg[0].value.[0].arg[0].value.[0].arg[1].value.[0].arg[1].value", fallback: "plus"))
                     }
                 }
             }
